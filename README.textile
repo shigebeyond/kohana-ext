@@ -1,0 +1,35 @@
+h1. kohana的扩展
+
+h2. 概述
+
+kohana-ext包含 对kohana框架与通用模块的扩展，如对Date新加方法now()，新建有布局模板的控制器类Controller_Layout_Template...
+
+h2. 类的扩展
+
+* *Controller_Layout_Template* 有布局模板的控制器.
+* *Virtual_Validation_Exception* 虚拟的校验异常.
+* *Arr* 扩展类Arr.
+* *Auth* 扩展类Auth.
+* *Bootstrap* 输入bootstrap样式的html的帮助类.
+* *Curl* 封装发送curl请求的帮助类.
+* *Date* 扩展类Date.
+* *File* 扩展类File.
+* *Form* 扩展类Form.
+* *Pagination* 扩展类Pagination.
+* *Request* 扩展类Request.
+* *Script* 脚本执行与表达式求值的帮助类.
+* *Security* 扩展类Security.
+* *Tree* 封装树操作的帮助类.
+* *Valid* 扩展类Valid.
+* *Validation* 扩展类Validation.
+
+h2. 消息的扩展
+
+* *messages/validation.php* 中文化校验错误的消息.
+
+h2. 视图的扩展
+
+* *views/bootstrap/* bootstrap模板的视图.
+* *views/errors/* 错误的视图.
+* *views/form* 表单的视图.
+
