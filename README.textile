@@ -2,7 +2,7 @@ h1. kohana的扩展
 
 h2. 概述
 
-kohana-ext包含 对kohana框架与通用模块的扩展，如对Date新加方法now()，新建有布局模板的控制器类Controller_Layout_Template...
+kohana-ext包含 对kohana3框架与通用模块的扩展，如对Date新加方法now()，新建有布局模板的控制器类Controller_Layout_Template...
 
 h2. 类的扩展
 
